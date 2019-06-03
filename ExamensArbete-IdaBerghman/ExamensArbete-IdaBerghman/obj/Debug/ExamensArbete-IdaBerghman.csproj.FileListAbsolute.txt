@@ -1,0 +1,5 @@
+C:\Users\idabe\Desktop\Examensarbete\examensarbete-IdaBerghman\ExamensArbete-IdaBerghman\ExamensArbete-IdaBerghman\bin\Debug\ExamensArbete-IdaBerghman.pdb
+C:\Users\idabe\Desktop\Examensarbete\examensarbete-IdaBerghman\ExamensArbete-IdaBerghman\ExamensArbete-IdaBerghman\obj\Debug\ExamensArbete-IdaBerghman.csproj.CoreCompileInputs.cache
+C:\Users\idabe\Desktop\Examensarbete\examensarbete-IdaBerghman\ExamensArbete-IdaBerghman\ExamensArbete-IdaBerghman\obj\Debug\ExamensArbete-IdaBerghman.dll
+C:\Users\idabe\Desktop\Examensarbete\examensarbete-IdaBerghman\ExamensArbete-IdaBerghman\ExamensArbete-IdaBerghman\obj\Debug\ExamensArbete-IdaBerghman.pdb
+C:\Users\idabe\Desktop\Examensarbete\examensarbete-IdaBerghman\ExamensArbete-IdaBerghman\ExamensArbete-IdaBerghman\obj\Debug\ExamensArbete-IdaBerghman.csprojAssemblyReference.cache

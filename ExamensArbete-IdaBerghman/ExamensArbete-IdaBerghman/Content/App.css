@@ -1,0 +1,210 @@
+﻿a.buttonStyle {
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+    a.buttonStyle:hover {
+        color: darkorange;
+    }
+
+.addButtonsDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.addButton {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+    .addButton:hover {
+        background-color: blue;
+        color: darkorange;
+    }
+
+
+button.btn.tableButton {
+    background-color: black;
+    color: white;
+}
+
+    button.btn.tableButton:hover {
+        color: darkorange;
+    }
+
+#ctl00_onetidHeadbnnr2 {
+    display: none;
+}
+
+.dropdownStyle {
+    margin: 6px 15px 4px 0;
+    background-color: black;
+    color: white;
+}
+
+    .dropdownStyle:hover {
+        background-color: black;
+        color: darkorange;
+    }
+
+.memberForm {
+    display: none;
+    width: 428px;
+    height: 400px;
+    margin: auto;
+    margin-top: 52px;
+}
+
+.topHeader {
+    height: 105px;
+    width: 100%;
+    background-color: blue;
+    margin-top: -38px;
+}
+
+.fas {
+    font-weight: 900;
+    font-size: 31px;
+    padding: 5px;
+}
+
+input {
+    margin: 0 5px;
+}
+
+.ms-core-pageTitle {
+    margin-top: -7px;
+    margin-left: 50%;
+}
+
+#membersList {
+    display: none;
+    width: 859px;
+    margin-top: 11px;
+}
+
+.nameSort {
+    cursor: pointer;
+}
+
+.navlinks {
+    margin-top: 48px;
+    text-align: center;
+}
+
+.buttonStyle {
+    margin: 8px;
+    color: white;
+    border: none;
+    background-color: blue;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+    .buttonStyle:hover {
+        background-color: blue;
+        color: darkorange;
+        text-decoration: underline;
+    }
+
+#searchText {
+    margin-top: 6px;
+}
+
+.searchDiv {
+    display: flex;
+    justify-content: center;
+}
+
+updateMem {
+    display: none;
+}
+
+saveMem {
+    display: block;
+}
+
+table {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+form.addMembersForm {
+    font-size: 14px;
+    margin: 2px 100px;
+    display: flex;
+    flex-direction: column;
+    height: 369px;
+}
+
+button.btn.buttonStyle {
+    margin: 8px 0;
+    background-color: black;
+    color: white;
+    width: 56px;
+}
+
+form-group .formStyle {
+    margin-bottom: 0;
+}
+
+form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 187px;
+    height: 30px;
+}
+
+#cell::before {
+    /* Increment "my-sec-counter" by 1 */
+    counter-increment: my-sec-counter;
+    content: counter(my-sec-counter) ". ";
+}
+
+i.far.fa-check-circle {
+    color: #06fd06;
+    font-size: 24px;
+}
+
+i.far.fa-times-circle {
+    color: red;
+    font-size: 24px;
+}
+
+#profileSideBar {
+    background-color: whitesmoke;
+    border-radius: 3px;
+    border: 1px solid black;
+    margin: 34px 0px;
+    display: none;
+    width: 35%;
+    position: absolute;
+    padding: 0 4px;
+}
+
+.hamburger {
+    float: left;
+}
+
+.profileForm, #profile{
+    display: none;
+}
+
+#addProfile{
+    display: none;
+}
+
+.buttons {
+    justify-content: space-around;
+    display: flex;
+}
+
+.profileName {
+    font-weight: bold;
+}
+#showProfileFirstname {
+    padding: 0 3px 0 0;
+}

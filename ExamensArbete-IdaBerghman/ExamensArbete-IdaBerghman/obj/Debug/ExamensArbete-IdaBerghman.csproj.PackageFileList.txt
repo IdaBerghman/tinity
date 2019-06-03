@@ -1,0 +1,1 @@
+bin\Debug\ExamensArbete_IdaBerghman.wsp

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d487d5b3-3008-4047-8829-d847d2f5d216" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="ExamensArbete-IdaBerghman_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
